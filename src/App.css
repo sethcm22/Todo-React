@@ -1,0 +1,15 @@
+.App {
+  background-color: slategray;
+
+  display: flex;
+}
+.App-Tasks {
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  display: flex;
+}
+.App-Sidebar {
+  display: flex;
+  flex-basis: 25vw;
+}

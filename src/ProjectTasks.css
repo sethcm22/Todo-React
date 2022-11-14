@@ -1,0 +1,19 @@
+.ProjectTasks {
+  width: 50vw;
+  height: 50vh;
+  background-color: purple;
+  box-shadow: 0 0 10px 3px violet;
+}
+.ProjectTasks-Header {
+  /* padding-top: 1rem; */
+  font-size: 2rem;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding-left: 1rem;
+}
+.ProjectTasks-Header button {
+  margin-right: 1rem;
+  margin-left: auto;
+}
